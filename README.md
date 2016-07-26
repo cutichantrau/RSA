@@ -17,3 +17,6 @@ boneh_durfee.sage -> Sage with: d < N ^ (0.26) and m = 4 -> d = 4291712803058965
 m = pow(c,d,n) = 191862100487585295956414894320257580235061617651119319752735101
 hex(m) = 0x776565627b6170796b6872756c7774766b70686b76617765797dL
 "...".decode("hex") = weeb{apykhrulwtvkphkvawey}
+
+Similiar:
+1. https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF_FINALS/crypto/bodu
